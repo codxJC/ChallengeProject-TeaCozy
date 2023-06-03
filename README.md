@@ -12,6 +12,7 @@ and not to present the ideal user experience.<br>
 This is a project to practice and learn.</p>
 :)<br>
 <br>
+
 [Live Preview](https://raw.githack.com/codxJC/ChallengeProject-TeaCozy/master/index.html)
 
 #### codxJC
